@@ -1,7 +1,7 @@
 # NRF24
 a C Library for a NRF24L01 Radio Module
 
-Userfull for Atmel studio Projects with different Microcontroller.
+Usefull for Atmel studio Projects with different Microcontroller.
 
 Easy to change values (init SPI or define CE / CSN pin)
 
