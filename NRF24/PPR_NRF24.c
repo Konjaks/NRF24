@@ -451,10 +451,8 @@ uint8_t NRF24_Packet_available()
 		*/
 		return 1;
 	}
-	else
-	{
-		return 0;	
-	}
+
+	return 0;
 }
 
 
