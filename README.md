@@ -1,5 +1,5 @@
-# NRF24
-a C Library for a NRF24L01 Radio Module
+## NRF24
+#a C Library for a NRF24L01 Radio Module
 
 Usefull for Atmel studio Projects with different Microcontroller.
 
